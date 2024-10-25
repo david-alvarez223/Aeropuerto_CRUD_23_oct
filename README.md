@@ -2,4 +2,4 @@
 Gpo 5J Proyecto aeropuerto tabla aviones
 
 --avion3
--![image](https://github.com/user-attachments/assets/ea332c27-8155-47a0-b52f-5bda2b2a34a0)
+-![image](https://github.com/user-attachments/assets/785ae1b5-0ffc-4893-9f7c-8ecc02f9d4ed)
